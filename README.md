@@ -55,7 +55,7 @@ Este projeto foi feito para treinar construção de landing pages com foco em pe
 
 ## 📬 Contato
 
-Entre em contato: jeffersoncardosodev@gmail.com
+Entre em contato: jeffersoncardoso.dev@gmail.com
 
 
 
