@@ -46,7 +46,7 @@ Seção Contato:
 
 
 
-Acesse o site aqui: [petdev.vercel.app](https://petdev.vercel.app)
+Acesse o site aqui: [petdev.vercel.app](https://landing-page-pet-dev.vercel.app/)
 
 
 ## 🧠 Ideia do projeto
