@@ -56,7 +56,7 @@ _____________________________________________
 
 
 
-## 📱 Seção Mobile
+## 📱 Mobile
 
 <h4>Hero</h4>
 <img src="./public/hero-mob.png" alt="Hero Mobile" width="280" />
