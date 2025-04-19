@@ -1,8 +1,6 @@
 **Landing Page Pet Dev** 🐾
 
-Landing page desenvolvida com Next.js, TypeScript e TailwindCSS.
-
- 🚀 Tecnologias utilizadas
+ 🚀 Tecnologias utilizadas:
 
 - Next.js
 - React
@@ -11,21 +9,45 @@ Landing page desenvolvida com Next.js, TypeScript e TailwindCSS.
 
 **Demonstração**💻 
 
-![Imagem da home](./public/bg-hero.png)
+Seção Hero:
+
+![Imagem da home](./public/hero-web.png)
+
+
+_____________________________________________
+
+Seção Sobre:
+
+![Imagem da home](./public/sobre-web.png)
+
+
+_____________________________________________
+
+
+Seção Serviços:
+
+![Imagem da home](./public/servicos-web.png)
+
+
+_____________________________________________
+
+
+Seção Depoimentos:
+
+![Imagem da home](./public/depoimentos-web.png)
+
+
+_____________________________________________
+
+
+Seção Contato:
+
+![Imagem da home](./public/contato-web.png)
+
+
 
 Acesse o site aqui: [petdev.vercel.app](https://petdev.vercel.app)
 
-## 📂 Estrutura do Projeto
-
-
-
-## 📷 Outras imagens
-
-### Seção de Produtos
-![Produtos](./public/natural.png)
-
-### Seção Hero
-![Hero](./public/hero-dog.webp)
 
 ## 🧠 Ideia do projeto
 
