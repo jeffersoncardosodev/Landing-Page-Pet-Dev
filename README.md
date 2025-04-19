@@ -52,31 +52,28 @@ _____________________________________________
 
 ** Seção Mobile**
 
-
-** Seção Mobile**
-
-<h4>Hero Mobile:</h4>
-<img src="./public/hero-mob.png" alt="Hero Mobile" width="300" />
+<h4>Hero</h4>
+<img src="./public/hero-mob.png" alt="Hero Mobile" width="280" />
 
 <hr />
 
-<h4>Sobre Mobile:</h4>
-<img src="./public/sobre-mob.png" alt="Sobre Mobile" width="300" />
+<h4>Sobre</h4>
+<img src="./public/sobre-mob.png" alt="Sobre Mobile" width="280" />
 
 <hr />
 
-<h4>Serviços Mobile:</h4>
-<img src="./public/servicos-mob.png" alt="Serviços Mobile" width="300" />
+<h4>Serviços</h4>
+<img src="./public/servicos-mob.png" alt="Serviços Mobile" width="280" />
 
 <hr />
 
-<h4>Depoimentos Mobile:</h4>
-<img src="./public/depoimentos-mob.png" alt="Depoimentos Mobile" width="300" />
+<h4>Depoimentos</h4>
+<img src="./public/depoimentos-mob.png" alt="Depoimentos Mobile" width="280" />
 
 <hr />
 
-<h4>Contato Mobile:</h4>
-<img src="./public/contato-mob.png" alt="Contato Mobile" width="300" />
+<h4>Contato</h4>
+<img src="./public/contato-mob.png" alt="Contato Mobile" width="280" />
 
 
 
