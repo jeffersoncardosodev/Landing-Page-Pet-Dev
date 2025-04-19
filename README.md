@@ -1,6 +1,12 @@
 **Landing Page Pet Dev** 🐾
 
- 🚀 Tecnologias utilizadas:
+## 🧠 Ideia do projeto
+
+Este projeto foi feito para treinar construção de landing pages com foco em performance, layout responsivo e experiência do usuário para negócios pet.
+
+
+
+## 🚀 Tecnologias utilizadas:
 
 - Next.js
 - React
@@ -81,10 +87,6 @@ _____________________________________________
 
 Acesse o site aqui: [petdev.vercel.app](https://landing-page-pet-dev.vercel.app/)
 
-
-## 🧠 Ideia do projeto
-
-Este projeto foi feito para treinar construção de landing pages com foco em performance, layout responsivo e experiência do usuário para negócios pet.
 
 ## 📬 Contato
 
