@@ -40,9 +40,60 @@ Seção Depoimentos:
 _____________________________________________
 
 
+
 Seção Contato:
 
 ![Imagem da home](./public/contato-web.png)
+
+
+_____________________________________________
+
+
+
+** Seção Mobile**
+
+
+Hero Mobile:
+
+![Imagem da home](./public/hero-mob.png)
+
+
+____________________________________________
+
+
+Sobre Mobile:
+
+![Imagem da home](./public/sobre-mob.png)
+
+
+____________________________________________
+
+
+
+Serviços Mobile:
+
+![Imagem da home](./public/servicos-mob.png)
+
+
+
+____________________________________________
+
+
+
+Depoimentos Mobile:
+
+![Imagem da home](./public/depoimentos-mob.png)
+
+
+
+____________________________________________
+
+
+
+Contato Mobile:
+
+![Imagem da home](./public/contato-mob.png)
+
 
 
 
