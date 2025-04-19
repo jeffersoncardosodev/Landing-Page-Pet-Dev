@@ -55,7 +55,7 @@ _____________________________________________
 
 Hero Mobile:
 
-![Imagem da home](./public/hero-mob.png)
+![Imagem mobile](./public/hero-mob.png)
 
 
 ____________________________________________
@@ -63,7 +63,7 @@ ____________________________________________
 
 Sobre Mobile:
 
-![Imagem da home](./public/sobre-mob.png)
+![Imagem mobile](./public/sobre-mob.png)
 
 
 ____________________________________________
@@ -72,7 +72,7 @@ ____________________________________________
 
 Serviços Mobile:
 
-![Imagem da home](./public/servicos-mob.png)
+![Imagem mobile](./public/servicos-mob.png)
 
 
 
@@ -82,7 +82,7 @@ ____________________________________________
 
 Depoimentos Mobile:
 
-![Imagem da home](./public/depoimentos-mob.png)
+![Imagem mobile](./public/depoimentos-mob.png)
 
 
 
@@ -92,7 +92,7 @@ ____________________________________________
 
 Contato Mobile:
 
-![Imagem da home](./public/contato-mob.png)
+![Imagem mobile](./public/contato-mob.png)
 
 
 
