@@ -13,7 +13,7 @@ Este projeto foi feito para treinar construção de landing pages com foco em pe
 - TypeScript
 - TailwindCSS
 
-**Demonstração**💻 
+## 💻 Demonstração 
 
 Seção Hero:
 
